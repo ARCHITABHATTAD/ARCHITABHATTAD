@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about anything 
-- 📫 How to reach me: [your-linkedin-URL](https://www.linkedin.com/in/archita-bhattad/
+- 📫 How to reach me: [your-linkedin-URL](https://www.linkedin.com/in/archita-bhattad/)
 - 😄 Pronouns: smart, hardworking, team worker
 - ⚡ Fun fact: Nothing actually😄(In my free time, I solve problems on GeeksforGeeks and read tech articles.)
 - ---
