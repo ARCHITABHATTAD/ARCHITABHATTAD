@@ -22,6 +22,7 @@
 - 📫 How to reach me: [your-linkedin-URL](https://www.linkedin.com/in/archita-bhattad/
 - 😄 Pronouns: smart, hardworking, team worker
 - ⚡ Fun fact: Nothing actually😄(In my free time, I solve problems on GeeksforGeeks and read tech articles.)
+- ---
 ---
 ### :hammer_and_wrench:My Quine Widgets
 [![ARCHITA's GitHub | Stats](https://stats.quine.sh/ARCHITA/github?theme=dark)](https://quine.sh)
