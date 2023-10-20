@@ -22,17 +22,28 @@
 - 📫 How to reach me: [your-linkedin-URL](https://www.linkedin.com/in/archita-bhattad/)
 - 😄 Pronouns: smart, hardworking, team worker
 - ⚡ Fun fact: Nothing actually😄(In my free time, I solve problems on GeeksforGeeks and read tech articles.)
-- ---
+--- 
+
+[![An image of @ARCHITA's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archita09)](https://www.holopin.io/@archita09)
+
 ---
 ### :hammer_and_wrench:My Quine Widgets
-[![ARCHITA's GitHub | Stats](https://stats.quine.sh/ARCHITA/github?theme=dark)](https://quine.sh)
-[![ARCHITA's GitHub | Languages Over Time](https://stats.quine.sh/ARCHITA/languages-over-time?theme=dark)](https://quine.sh)
+<div style="display: flex; flex-direction: row;">
+  
+ <br><img class="img" src="https://stats.quine.sh/ARCHITA/github?theme=dark" />
+ <img class="img" src="https://stats.quine.sh/ARCHITA/dependencies?theme=light" /><br>
+</div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARCHITABHATTAD&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHITABHATTAD&layout=compact&theme=vision-friendly-dark)](https://github.com/ARCHITABHATTAD/github-readme-stats)
+[![ARCHITA's GitHub | Languages Over Time](https://stats.quine.sh/ARCHITA/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=)
 
+### fire: My Stats :
+
+<div style="display: flex; flex-direction: row;">
+  
+ <br><img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=ARCHITABHATTAD&theme=dark&background=000000" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHITABHATTAD&layout=compact&theme=vision-friendly-dark" /><br>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
