@@ -26,17 +26,6 @@
 
 [![An image of @ARCHITA's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archita09)](https://www.holopin.io/@archita09)
 
----
-### :hammer_and_wrench:My Quine Widgets
-<div style="display: flex; flex-direction: row;">
-  
- <br><img class="img" src="https://stats.quine.sh/ARCHITA/github?theme=dark" />
- <img class="img" src="https://stats.quine.sh/ARCHITA/dependencies?theme=light" /><br>
-</div>
-
-
-[![ARCHITA's GitHub | Languages Over Time](https://stats.quine.sh/ARCHITA/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=)
-
 ### fire: My Stats :
 
 <div style="display: flex; flex-direction: row;">
